@@ -1,0 +1,22 @@
+2006
+2009 independizacion
+Boutique de desarrollo
+Apps - Web - Dise;adores - Social Media
+
+4 accionistas (Consejo de Admon)
+Gerente general
+Director de producccion (evalua avances esperados en tiempos esperados), innovador y dise;o, tecnico, social media
+Comunidades de soporte (finanzas, recursos humanos)
+Comunity manager, dise;adro/animador
+Lider de progra
+Equipo de progra
+
+Asesor digital (Vendedor) -> aterrizar la idea -> alineaciones del cliente -> reuniones con los directores
+
+Directores: Delimitacion de alcance del proyecto -> arquitectura de informacion (mockups, casos de uso, etc) -> reunion inicial (definir quienes trabajan en el proyecto) -> desarrollo -> QA -> primera entrega a cliente de revision -> correcciones -> release inicial
+
+
+-- sergio --
+conseguir otro stake holder
+
+Key partners? Donde publican sus cosas? AWS? Azure? Github?
