@@ -3,19 +3,19 @@
 
 Archimate
 
-Introductoria --> Ready to go
-Organización --> Ready to go
-Colaboraciones
-Función de negocio
-Producto --> Ready to go
-Realización de servicio
-Cooperación de procesos de negocio
-Proceso de negocio --> Ready to go
-Estructura de información
-Cooperación de aplicación
-Uso de aplicación
-Comportamiento de aplicación
-Estructura de aplicación
-Infraestructura
-Infraestructura de aplicaciones
-Implementación
+Introductoria --> Ready to go<br />
+Organización --> Ready to go<br />
+Colaboraciones<br />
+Función de negocio<br />
+Producto --> Ready to go<br />
+Realización de servicio<br />
+Cooperación de procesos de negocio<br />
+Proceso de negocio --> Ready to go<br />
+Estructura de información<br />
+Cooperación de aplicación<br />
+Uso de aplicación<br />
+Comportamiento de aplicación<br />
+Estructura de aplicación<br />
+Infraestructura<br />
+Infraestructura de aplicaciones<br />
+Implementación<br />
