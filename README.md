@@ -3,7 +3,7 @@
 
 Archimate
 
-Introductoria --> Ready to go
+Introductoria --> Ready to go \n
 Organización --> Ready to go
 Colaboraciones
 Función de negocio
